@@ -1,1 +1,1 @@
-These are SolidWorks Sheet Metal designs and fabrication drawings for the outer casing of an ice making machine.
+The first folder contains designs and fabrication drawings for an Ice making machine casing, while the second folder contains designs derived from Cerified Solidworks Associate (CSWA) practice exam questions. Unless otherwise stated, the CAD files have been created by Hannah Wanjau.
